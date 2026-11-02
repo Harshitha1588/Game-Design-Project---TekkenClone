@@ -2,17 +2,17 @@
 
 3D Fighting Game – TekkenClone
 
-#Project Description
+#**Project Description**
 
 TekkenClone is a 3D fighting game developed using Unity 6 and C#. It allows players to fight against an opponent in a 3D arena using movement and attack controls.
 
-#Objectives
+#**Objectives**
 
 - Develop an interactive 3D fighting game.
 - Implement character movement and combat.
 - Create health and result systems.
 
-#Key Features
+#**Key Features**
 
 - 3D arena
 - Character fighting and animations
@@ -20,7 +20,7 @@ TekkenClone is a 3D fighting game developed using Unity 6 and C#. It allows play
 - Camera control
 - Victory and defeat screens
 
-#Technologies
+#**Technologies**
 
 Unity 6, C#, Visual Studio, Unity Animator, Unity UI.
 
