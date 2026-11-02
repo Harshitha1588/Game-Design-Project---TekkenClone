@@ -24,6 +24,6 @@ TekkenClone is a 3D fighting game developed using Unity 6 and C#. It allows play
 
 Unity 6, C#, Visual Studio, Unity Animator, Unity UI.
 
-#Future Scope
+#**Future Scope**
 
 Adding more characters, improved AI, sound effects, and multiplayer support.
